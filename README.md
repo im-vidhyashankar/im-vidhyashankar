@@ -1,4 +1,3 @@
- Hi there 👋, I'm @im-vidhyashankar
 
 # 👋, I'm Vidhya Shankar
 
