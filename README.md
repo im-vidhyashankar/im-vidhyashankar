@@ -25,4 +25,8 @@ I'm a passionate QA Professional with extensive experience in ensuring the highe
 ---
 [![](https://visitcount.itsvg.in/api?id=im-vidhyashankar&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![image](https://github.com/im-vidhyashankar/im-vidhyashankar/assets/174575901/ce8a1c51-c397-4ded-9531-83fa4e70eb28) I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
