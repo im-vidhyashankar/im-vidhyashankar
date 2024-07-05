@@ -1,32 +1,35 @@
+# Hi , I'm Vidhya Shankar
+👨‍💻 I'm a passionate QA Professional finding bugs since 2010 🙂 <br><br>
+👀 Interested in Quality Assurance & Testing, Test Automation, Agile Methodologies, DevOps and Continuous Integration/Continuous Deployment (CI/CD)<br><br>
+👨‍💻 I’m currently working on - Selenium, Cucumber BDD, and Playwright <br><br>
+🌱 I’m currently learning - Cloud computing (AWS Certified Cloud Practitioner), Cyber Security, PenTest and Advanced DevOps practices (Docker, Kubernetes), Machine learning for test automation, React  <br><br>
+🤝 I’m looking to collaborate on - Open-source QA projects, Developing new testing tools and frameworks<br><br>
+💬 Ask me about Automation Testing / Software Testing <br><br>
+⚡ Fun fact I am lazy but smart😊<br><br>
+💞 If you want to say hi or have work, Lets connect through Linkedin 
 
-# 👋, I'm Vidhya Shankar
 
-💫 About Me:
-
-I'm a passionate QA Professional with extensive experience in ensuring the highest quality of software products. With a strong background in automated and manual testing, I strive to deliver exceptional quality and seamless user experiences. My expertise includes leading QA teams, designing test strategies, and implementing efficient testing processes.<br> <br>👀 Interests<br>- Quality Assurance & Testing<br>- Test Automation<br>- Agile Methodologies<br>- DevOps and Continuous Integration/Continuous Deployment (CI/CD)<br>- **New Technologies: PlayWright, artificial intelligence in testing, and DevOps practices.<br><br>👨‍💻I’m currently working on Selenium, Playwright, Cucumber and BDD <br><br>🌱 I’m currently learning :<br>- Cloud computing (AWS Certified Cloud Practitioner)<br>- Cypress, Cyber Security, and Pen Test (EC Council)<br>- Advanced DevOps practices (Docker, Kubernetes)<br>- Machine learning for test automation<br><br> 🤝 I’m looking to collaborate on : <br>- Open-source QA projects<br>- Developing new testing tools and frameworks<br>- Projects focusing on enhancing software quality<br><br>💬 Ask me about Automation Testing<br><br>⚡ Fun fact I am lazy but smart😊 <br><br> 💞 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/vidhyashankarn/) 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vidhyashankarn/) 
+## 🚀 Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Selenium](https://img.shields.io/badge/-selenium-CB02A?style=for-the-badge&logo=selenium&logoColor=white) ![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white) ![intellijidea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PlayWright](https://img.shields.io/static/v1?style=for-the-badge&message=Playwright&color=2EAD33&logo=Playwright&logoColor=FFFFFF&label=) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=im-vidhyashankar&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=im-vidhyashankar&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=im-vidhyashankar&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 📊 GitHub Activity:
+![](https://github-readme-stats.vercel.app/api?username=im-vidhyashankar&theme=dark&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=im-vidhyashankar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=im-vidhyashankar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=im-vidhyashankar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=im-vidhyashankar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
