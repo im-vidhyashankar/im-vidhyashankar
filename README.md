@@ -4,9 +4,10 @@
 👨‍💻 I’m currently working on - Selenium, Cucumber BDD, and Playwright <br><br>
 🌱 I’m currently learning - Cloud computing (AWS Certified Cloud Practitioner), Cyber Security, PenTest and Advanced DevOps practices (Docker, Kubernetes), Machine learning for test automation, React  <br><br>
 🤝 I’m looking to collaborate on - Open-source QA projects, Developing new testing tools and frameworks<br><br>
-💬 Ask me about Automation Testing / Software Testing <br><br>
+💬 Ask me about Automation Testing / Software Testing. I believe in continuous learning and enjoy exploring new technologies. <br><br>
 ⚡ Fun fact I am lazy but smart😊<br><br>
 💞 If you want to say hi or have work, Lets connect through Linkedin 
+
 
 
 ## 🌐 Socials
