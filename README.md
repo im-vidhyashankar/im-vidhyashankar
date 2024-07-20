@@ -2,7 +2,7 @@
 👨‍💻 I'm a passionate QA Professional finding bugs since 2010 🙂 <br><br>
 👀 Interested in Quality Assurance & Testing, Test Automation, Agile Methodologies, DevOps and Continuous Integration/Continuous Deployment (CI/CD)<br><br>
 👨‍💻 I’m currently working on - Selenium, Cucumber BDD, and Playwright <br><br>
-🌱 I’m currently learning - Cloud computing (AWS Certified Cloud Practitioner), Cyber Security, PenTest and Advanced DevOps practices (Docker, Kubernetes), Machine learning for test automation, React  <br><br>
+🌱 I’m currently learning - Cloud computing (AWS Certified Cloud Practitioner), Cyber Security, PenTest and Advanced DevOps practices (Docker, Kubernetes) <br><br>
 🤝 I’m looking to collaborate on - Open-source QA projects, Developing new testing tools and frameworks<br><br>
 💬 Ask me about Automation Testing / Software Testing. I believe in continuous learning and enjoy exploring new technologies. <br><br>
 ⚡ Fun fact I am lazy but smart😊<br><br>
