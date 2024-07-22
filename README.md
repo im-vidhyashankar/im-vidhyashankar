@@ -1,10 +1,9 @@
-# Hi , I'm Vidhya Shankar
-👨‍💻 I'm a passionate QA Professional finding bugs since 2010 🙂 <br><br>
+# Hi 👋, I'm Vidhya Shankar
+👨‍💻 I'm a passionate QA Professional finding bugs since 2010 🙂 Passionate about continuous growth and development <br><br>
 👀 Interested in Quality Assurance & Testing, Test Automation, Agile Methodologies, DevOps and Continuous Integration/Continuous Deployment (CI/CD)<br><br>
-👨‍💻 I’m currently working on - Selenium, Cucumber BDD, and Playwright <br><br>
+👨‍💻 I’m currently working on - Selenium - Cucumber BDD, and Playwright <br><br>
 🌱 I’m currently learning - Cloud computing (AWS Certified Cloud Practitioner), Cyber Security, PenTest and Advanced DevOps practices (Docker, Kubernetes) <br><br>
 🤝 I’m looking to collaborate on - Open-source QA projects, Developing new testing tools and frameworks<br><br>
-💬 Ask me about Automation Testing / Software Testing. I believe in continuous learning and enjoy exploring new technologies. <br><br>
 ⚡ Fun fact I am lazy but smart😊<br><br>
 💞 If you want to say hi or have work, Lets connect through Linkedin 
 
@@ -21,6 +20,10 @@
 ## 📊 GitHub Activity:
 ![](https://github-readme-stats.vercel.app/api?username=im-vidhyashankar&theme=dark&hide_border=false&include_all_commits=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=im-vidhyashankar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=im-vidhyashankar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+<br/>
+
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=im-vidhyashankar&theme=nord)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=im-vidhyashankar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
