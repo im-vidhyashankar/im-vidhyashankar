@@ -49,8 +49,8 @@ Welcome to my GitHub profile! I’m a passionate QA professional with 10+ years 
 
 ## 📫 Let's Connect 🌐 Socials
 
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/vidhyashankarn/)
-💼[Portfolio Website] Coming soon ......!
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/vidhyashankarn/) <br>
+💼 [Portfolio Website] Coming soon ......!
 
 
 ⭐️ *Thanks for visiting! Feel free to fork, follow, or connect if you're passionate about quality in tech.*  I’m always open to sharing knowledge, mentoring budding testers, and contributing to meaningful QA initiatives.
