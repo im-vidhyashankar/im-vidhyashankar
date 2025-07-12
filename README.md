@@ -1,11 +1,23 @@
 # Hi 👋, I'm Vidhya Shankar
+
+Welcome to my GitHub profile! I’m a passionate QA professional with 10+ years of experience in building quality-first engineering practices, leading cross-functional teams, and delivering high-performing, scalable test automation frameworks.
+
+## 🔍 About Me
+
 👨‍💻 I'm a passionate QA Professional finding bugs since 2010 🙂 Passionate about continuous growth and development <br><br>
 👀 Interested in Quality Assurance & Testing, Test Automation, Agile Methodologies, DevOps and Continuous Integration/Continuous Deployment (CI/CD)<br><br>
 👨‍💻 I’m currently working on - Selenium - Cucumber BDD, and Playwright <br><br>
 🌱 I’m currently learning - Cloud computing (AWS Certified Cloud Practitioner), Cyber Security, PenTest and Advanced DevOps practices (Docker, Kubernetes) <br><br>
 🤝 I’m looking to collaborate on - Open-source QA projects, Developing new testing tools and frameworks<br><br>
-⚡ Fun fact I am lazy but smart😊<br><br>
 💞 If you want to say hi or have work, Lets connect through Linkedin 
+
+
+## 📊 What I Believe In
+
+- ✅ Quality is everyone’s responsibility  
+- 📈 Test early, test often  
+- 🧪 Automation is not just scripts — it's strategy  
+- 📢 Clear communication is key to strong QA
 
 
 
