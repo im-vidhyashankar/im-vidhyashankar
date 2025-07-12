@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m a passionate QA professional with 10+ years 
 
 ## 🔍 About Me
 
-👨‍💻 I'm a passionate QA Professional finding bugs since 2010 🙂 Passionate about continuous growth and development <br><br>
+👨‍💻 QA Professional finding bugs since 2010 🙂 Passionate about continuous growth and development <br><br>
 👀 Interested in Quality Assurance & Testing, Test Automation, Agile Methodologies, DevOps and Continuous Integration/Continuous Deployment (CI/CD)<br><br>
 👨‍💻 I’m currently working on - Selenium - Cucumber BDD, and Playwright <br><br>
 🌱 I’m currently learning - Cloud computing (AWS Certified Cloud Practitioner), Cyber Security, PenTest and Advanced DevOps practices (Docker, Kubernetes) <br><br>
