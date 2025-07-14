@@ -9,14 +9,14 @@ Welcome to my GitHub profile! I’m a passionate QA professional with 10+ years 
 👨‍💻 I’m currently working on - Selenium - Cucumber BDD, and Playwright <br>
 🌱 I’m currently learning - Cloud computing (AWS Certified Cloud Practitioner), and Advanced DevOps practices (Docker, Kubernetes) <br>
 🤝 I’m looking to collaborate on - Open-source QA projects, Developing new testing tools and frameworks<br>
-💞 If you want to say hi or have work, Lets connect through Linkedin 
+💞 If you want to say hi or have work, Lets connect through Linkedin
 
 
 ## 📊 What I Believe In
 
 - ✅ Quality is everyone’s responsibility  
 - 📈 Test early, test often  
-- 🧪 Automation is not just scripts — it's strategy  
+- 🧪 Automation is not just scripts - it's strategy  
 - 📢 Clear communication is key to strong QA
 
 
